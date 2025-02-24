@@ -1,5 +1,5 @@
 # Build a Large Language Model (From Scratch)
-
+https://songhune.notion.site/Meeting-Agenda-Key-Points-1a4c76f814c3809986e1f8c890a82c71?pvs=4
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
 
 <br>
